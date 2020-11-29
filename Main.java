@@ -5,5 +5,7 @@ public class Main {
         int x = 5;
         System.out.println(x++);
         System.out.println(x);
+        System.out.println("Aarush is the gamer);
+        
     }
 }
